@@ -10,9 +10,9 @@ void main(){
 	int ch;
 	do{
 		printf("\n-----------STACK-----------");
-		printf("\n Press 1 for push");
-		printf("\n Press 2 for pop");
-		printf("\n Press 3 for display");
+		printf("\n Press 1 for push operation:");
+		printf("\n Press 2 for pop operation: ");
+		printf("\n Press 3 for display operation: ");
 		printf("\n Press 4 for exit");
 		printf("\nEnter your choice: ");
 		scanf("%d" , &ch);
