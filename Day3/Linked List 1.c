@@ -87,7 +87,7 @@ void display()
 {
     if(start == NULL)
     {
-        printf("\nLink list not created, create a list first\n");
+        printf("\nLinked list not created, create a list first\n");
     }
     else
     {
